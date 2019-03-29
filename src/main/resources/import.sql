@@ -1,6 +1,6 @@
 INSERT INTO user_model (email, first_name, last_name, password, user_role) VALUES
-('tommy.johnson@gmail.com', 'Tommy', 'Johnson', '1111', 'USER');
-('salo.olenka@gmail.com', 'Olenka', 'Salo', '1111', 'USER');
+('tommy.johnson@gmail.com', 'Tommy', 'Johnson', '1111', 'USER'),
+('test.mail@gmail.com', 'Olenka', 'Salo', '0321', 'USER');
 
 INSERT INTO account_model (code, name, balance, url_to_image) VALUES
 ('pharma-group', 'Danish Pharmaceutical group', 13250000.0, 'https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Novo_Nordisk.svg/1200px-Novo_Nordisk.svg.png'),
